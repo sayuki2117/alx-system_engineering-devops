@@ -1,1 +1,1 @@
-5. I love numbers
+Create a script that creates a directory named
