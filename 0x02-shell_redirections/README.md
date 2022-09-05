@@ -1,1 +1,1 @@
-9. Duplicate last line        
+10. No more javascript         
