@@ -1,1 +1,1 @@
-8. Save current state of directory       
+9. Duplicate last line        
