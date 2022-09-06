@@ -1,1 +1,1 @@
-5. Local variables     
+6. Local variable      
