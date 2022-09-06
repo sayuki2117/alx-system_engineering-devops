@@ -1,1 +1,1 @@
-6. Local variable      
+7. Global variable      
