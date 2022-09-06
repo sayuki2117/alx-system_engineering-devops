@@ -1,1 +1,1 @@
-11. Don't just count your directories, make your directories count                     
+24. A gif is worth ten thousand words                      
